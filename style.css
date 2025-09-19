@@ -1,0 +1,29 @@
+
+body {
+  background: #f8f9fa;
+}
+
+.blog-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.blog-card .card-title {
+  color: #814aab;
+}
+.hero{
+    background-color: #814aab;
+}
+.btn:hover{
+    background-color: #814aab;
+    color:white
+}
+.btn{
+    color:black;
+    background-color: #f8f9fa;
+    
+}

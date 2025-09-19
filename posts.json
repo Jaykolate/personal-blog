@@ -1,0 +1,35 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My Journey with MERN Stack – How I Started",
+      "category": "Student Life & Productivity",
+      "content":  "I started learning MERN stack to build real-world projects. At first, I struggled with Express and MongoDB setup, but small wins kept me motivated. In this blog, I share how I approached learning React, backend APIs, and deploying my first project.\n\nWhen I first encountered MERN, it felt overwhelming because each part—MongoDB, Express, React, and Node.js—had its own learning curve. I began with JavaScript fundamentals, then slowly moved toward building simple Express servers. Once I got the hang of APIs, I tried connecting them with MongoDB Atlas. The joy of storing and retrieving data was huge motivation!\n\nReact was another exciting step. Building reusable components gave me confidence and helped me design interactive UIs. Finally, I deployed my first MERN app on free hosting platforms, and that gave me a sense of accomplishment. This journey taught me that consistent small efforts add up to big results."
+       
+    },
+    {
+      "id": 2,
+      "title": "How I Balance College, DSA, and Web Development",
+      "category": "Student Life & Productivity",
+      "content": "Balancing academics, coding practice, and web development is tough as a student. I manage my time by following a fixed routine: DSA in the morning, college in the day, and web dev projects at night. This blog explains my daily schedule and hacks.\n\nI dedicate at least one hour in the morning to solving DSA problems on LeetCode or practicing previous topics. This ensures my logical thinking improves daily. During college hours, I focus on lectures and labs without distractions. In the evening, I work on personal projects, where I apply what I learned.\n\nI also use tools like Google Calendar and Notion to plan my day. Breaking tasks into small, achievable goals helps me avoid burnout. This balance keeps me productive while still leaving time for rest and social activities."
+    },
+    {
+      "id": 3,
+      "title": "Best Time Management Tips for Engineering Students",
+      "category": "Student Life & Productivity",
+      "content":  "Time management is the key skill in engineering. In this blog, I share practical tips like using Pomodoro, prioritizing assignments, and blocking social media during study hours.\n\nThe Pomodoro technique (25 minutes study, 5 minutes break) helps me stay focused and avoid procrastination. I also use priority lists to tackle important assignments first, instead of wasting time on less urgent work. Another hack I use is scheduling study sessions at fixed times daily so my brain gets trained to concentrate.\n\nMost importantly, I minimize distractions by keeping my phone away or using apps that block social media. Time is the most valuable resource in engineering, and learning how to manage it has helped me improve both academics and personal projects."
+    },
+    {
+      "id": 4,
+      "title": "Why Hackathons Changed My Way of Learning",
+      "category": "Student Life & Productivity",
+      "content": "Hackathons taught me to build projects fast, work in teams, and think about problem statements. Unlike classroom learning, hackathons force you to learn by doing. This blog shares my best hackathon lessons.\n\nMy first hackathon was intense—I had to learn new technologies overnight. But that pressure pushed me to search, learn, and implement quickly. Working in a team taught me collaboration, dividing roles, and presenting ideas effectively.\n\nI also realized hackathons are not just about winning but about experimenting and networking. Many of my best project ideas started at hackathons. The experience shaped me into a more practical learner rather than just a theoretical student."
+    },
+    {
+      "id": 5,
+      "title": "ReWear – My Clothing Exchange Website Journey",
+      "category": "Project Blogs",
+      "content":  "ReWear is a community-driven clothing exchange platform I built. The goal was to promote sustainability by letting users exchange clothes instead of buying new ones. In this blog, I share how I built the front end with HTML, CSS, and JavaScript, and how I plan to scale it with a backend and database in the future.\n\nThe idea came when I noticed how many clothes go unused in our wardrobes. I wanted to create a platform where people could list clothes they no longer needed and swap them with others. I started with a simple responsive website, designing clean UI with Bootstrap and adding interactivity using JavaScript.\n\nIn the future, I plan to integrate authentication, secure transactions, and maybe even AI-powered recommendations for sustainable fashion. This project not only improved my web development skills but also gave me purpose through sustainability."
+    }
+  ]
+}
