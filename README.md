@@ -42,7 +42,7 @@ personal-blog/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/personal-blog.git
+git clone https://github.com/jaykolate/personal-blog.git
 
 
 Technologies Used
