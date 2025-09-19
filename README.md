@@ -71,6 +71,6 @@ Future Improvements
 
 ---
 
-Your jaykolate
+Name  jaykolate
 
 Contact: jaykolate529@gmail.com
